@@ -47,7 +47,7 @@ In this step, we'll configure AWS CodeBuild to build our Python application base
 
 Fantastic! With AWS CodeBuild all set up, we're now ready to witness the magic of continuous integration in action.
 
-## Trigger the CI Process
+### Trigger the CI Process
 
 In this final step, we'll trigger the CI process by making a change to our GitHub repository. Let's see how it works:
 
